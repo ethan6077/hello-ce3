@@ -4,6 +4,8 @@ An example application built from the [ce3.g8 template](https://github.com/typel
 
 This app is created by running `sbt new typelevel/ce3.g8`
 
+This project is written in **Scala-3**.
+
 ## Run application
 
 ```shell
