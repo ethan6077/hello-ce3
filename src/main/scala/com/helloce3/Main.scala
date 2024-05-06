@@ -1,4 +1,4 @@
-package com.hello-ce3
+package com.helloce3
 
 import cats.effect.IOApp
 import cats.effect.IO
