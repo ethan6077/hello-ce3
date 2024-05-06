@@ -2,6 +2,8 @@
 
 An example application built from the [ce3.g8 template](https://github.com/typelevel/ce3.g8).
 
+This app is created by running `sbt new typelevel/ce3.g8`
+
 ## Run application
 
 ```shell
